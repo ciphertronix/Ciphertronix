@@ -1,6 +1,10 @@
 # 👋 Hello, I'm [Ciphertronix]
   <a align="center" href="https://github.com/MurtazaNaqviCoder"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2e31f7&size=25&lines=Welcome+To+Ciphertronix!;For+Fraud+Detection,+eSentinel;For+Smart+Terminal+Operation,+STOS" /></a>
 
+# ⚙️ Tools:
+<a href='https://ciphertronix.com/esentinel/' target="_blank"><img alt='' src='https://img.shields.io/badge/eSentinel-100000?style=plastic&logo=&logoColor=white&labelColor=000000&color=FF0000'/></a>
+<a href='https://ciphertronix.com/esentinel/' target="_blank"><img alt='' src='https://img.shields.io/badge/STOS-100000?style=plastic&logo=&logoColor=white&labelColor=000000&color=183355'/></a>
+
 # 🔎 eSentinel:
 <img src="https://ciphertronix.com/wp-content/uploads/2024/12/a-futuristic-digital-interface-design-fo_dx4Uifz0TpinO4C3HdHAtA_i_yCHT7lR6yvnaXg3RSs_w.jpeg">
 <br>
@@ -12,6 +16,7 @@
 
 # 🚛 STOS:
 <img src="https://ciphertronix.com/wp-content/uploads/2024/12/a-futuristic-digital-interface-design-fo_dZpMFhJmRs-FaN0M_69vVw_rEnzulTdTM2YQTIM0_3lhg.jpeg">
+<br>
 <h2>STOS - Smart Terminal Operating System</h2>
 <img src="https://ciphertronix.com/wp-content/uploads/2024/12/STOS-with-background.png" width=150 height=150>
 <p>eSentinel is a versatile fraud detection and risk monitoring solution for Issuance, Acquiring, Branchless Banking, and Virtual Wallets. It provides fraud analysts with a unified dashboard powered by pre-defined rules tailored to local fraud trends. Designed for near real-time detection of suspicious transactions, it uses a grading matrix and integrates seamlessly with banking systems using ISO 8583.</p>
@@ -20,7 +25,7 @@
 
 # Profile:
 
-## ❓ Why Ciphetronix?
+## 👑 Why Ciphetronix?
 <img src = "https://ciphertronix.com/wp-content/uploads/2024/12/Ciphertronix-with-background.png">
 <p><b>CipherTronix,</b> founded in 2008, has firmly established itself as the premier provider of IT and network security services in Pakistan. With an unwavering commitment to innovation and excellence, CipherTronix has been empowering businesses to address their most pressing challenges. The company has grown exponentially, offering high-value technology solutions that enhance operational efficiency and drive profitability for its clients. Its extensive portfolio, powered by a galvanized team of industry experts, has made CipherTronix a trusted name among leading organizations and financial institutions.
 <br><br>
