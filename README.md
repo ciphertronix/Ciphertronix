@@ -15,7 +15,7 @@
 [![Website](https://img.shields.io/badge/Website-ciphertronix.com-2e31f7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ciphertronix.com)
 [![eSentinel](https://img.shields.io/badge/eSentinel-Fraud_Detection-FF0000?style=for-the-badge&logoColor=white)](https://ciphertronix.com/esentinel/)
 [![STOS](https://img.shields.io/badge/STOS-Terminal_OS-183355?style=for-the-badge&logoColor=white)](https://ciphertronix.com/esentinel/)
-[![Founded](https://img.shields.io/badge/Established-2008-success?style=for-the-badge)](https://ciphertronix.com)
+[![Founded](https://img.shields.io/badge/Established-2011-success?style=for-the-badge)](https://ciphertronix.com)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 🏢 About Us
 
-**CipherTronix**, founded in **2008**, has firmly established itself as a premier provider of IT and network security services in Pakistan. With an unwavering commitment to innovation and excellence, we empower businesses to address their most pressing technology and security challenges.
+**CipherTronix**, founded in **2011**, has firmly established itself as a premier provider of IT and network security services in Pakistan. With an unwavering commitment to innovation and excellence, we empower businesses to address their most pressing technology and security challenges.
 
 Over the years, the company has grown exponentially, delivering high-value technology solutions that enhance operational efficiency and drive profitability for our clients. What distinguishes CipherTronix from its competitors is the ability to **blend local expertise with global standards** — backed by a richly experienced team drawn from leading multinational and local organizations.
 
