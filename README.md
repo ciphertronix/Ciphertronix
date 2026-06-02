@@ -40,7 +40,7 @@ This diverse pool of talent enables us to deliver tailored solutions, whether de
 ### 🔎 eSentinel
 **Enterprise Fraud Risk Management System**
 
-<img src="https://ciphertronix.com/wp-content/uploads/2024/12/esentinel-logo-with-background.png" width="180"/>
+<img src="https://ciphertronix.com/wp-content/uploads/2026/04/esentinel-logo-with-background.webp" width="180"/>
 
 eSentinel is a versatile fraud detection and risk monitoring solution for **Issuance, Acquiring, Branchless Banking, and Virtual Wallets**.
 
@@ -49,7 +49,7 @@ It equips fraud analysts with a unified dashboard powered by pre-defined rules t
 **Key Capabilities**
 - 🛡️ Near real-time transaction monitoring
 - 📊 Rule-based grading matrix
-- 🔗 ISO 8583 banking integration
+- 🔗 Payment industry verified
 - 🧭 Unified fraud analyst dashboard
 
 </td>
