@@ -138,7 +138,6 @@ We are proud to be a trusted partner to prominent organizations and financial in
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-ciphertronix.com-2e31f7?style=flat-square&logo=google-chrome&logoColor=white)](https://ciphertronix.com)
-[![eSentinel](https://img.shields.io/badge/Product-eSentinel-FF0000?style=flat-square)](https://ciphertronix.com/esentinel/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ciphertronix-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ciphertronix/)
 
 **Ciphertronix Contact Information** &nbsp;·&nbsp; 📞 +92 335 2840908 &nbsp;·&nbsp; 📞 +44 7466 971690
