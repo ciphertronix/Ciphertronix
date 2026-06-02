@@ -92,7 +92,7 @@ Built for acquirers and financial institutions, STOS delivers secure, remote con
 We are proud to be a trusted partner to prominent organizations and financial institutions, including **Bank of Punjab, Keenu, Bank Al Habib Limited, Bank of Khyber, Foree, Bank Alfalah, JS Bank**, and many more.
 
 <div align="center">
-<img src="https://ciphertronix.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-2-2026-09_52_26-AM.png" alt="Our Clients" width="80%"/>
+<img src="https://ciphertronix.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-2-2026-10_11_37-AM.png" alt="Our Clients" width="80%"/>
 </div>
 
 ---
