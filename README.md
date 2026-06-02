@@ -58,7 +58,7 @@ It equips fraud analysts with a unified dashboard powered by pre-defined rules t
 ### 🚛 STOS
 **Smart Terminal Operating System**
 
-<img src="https://ciphertronix.com/wp-content/uploads/2024/12/STOS-with-background.png" width="150"/>
+<img src="https://ciphertronix.com/wp-content/uploads/2026/04/STOS-with-background-Copy.webp" width="150"/>
 
 STOS is a centralized platform for managing and operating payment terminal fleets at scale. It streamlines **terminal deployment, configuration, monitoring, and lifecycle management** across distributed networks.
 
