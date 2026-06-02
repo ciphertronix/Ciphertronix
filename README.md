@@ -123,7 +123,7 @@ We are proud to be a trusted partner to prominent organizations and financial in
 [![eSentinel](https://img.shields.io/badge/Product-eSentinel-FF0000?style=flat-square)](https://ciphertronix.com/esentinel/)
 [![GitHub](https://img.shields.io/badge/GitHub-MurtazaNaqviCoder-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MurtazaNaqviCoder)
 
-**Murtaza Naqvi** &nbsp;·&nbsp; 📞 +92 337 1272336
+**Ciphertronix Contact Information** &nbsp;·&nbsp; 📞 +92 335 2840908 &nbsp;·&nbsp; 📞 +44 7466 971690
 
 </div>
 
@@ -131,8 +131,8 @@ We are proud to be a trusted partner to prominent organizations and financial in
 
 <div align="center">
 
-[![Visitors](https://visitcount.itsvg.in/api?id=murtazanaqvicoder&icon=0&color=6)](https://github.com/MurtazaNaqviCoder)
+[![Visitors](https://visitcount.itsvg.in/api?id=ciphertronix&icon=0&color=6)](https://github.com/ciphertronix/)
 
-*© 2008–2025 CipherTronix — Empowering businesses through secure technology.*
+*© 2011–2026 CipherTronix — Empowering businesses through secure technology.*
 
 </div>
