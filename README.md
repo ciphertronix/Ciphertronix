@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://ciphertronix.com/wp-content/uploads/2024/12/Ciphertronix-with-background.png" alt="CipherTronix" width="420"/>
+<img src="https://ciphertronix.com/wp-content/uploads/2026/04/np0khqgxlelnhc5dicjg-scaled-1-1536x332.webp" alt="CipherTronix" width="420"/>
 
 # CipherTronix
 
 ### Securing the Future of Financial Technology in Pakistan
 
-<a href="https://github.com/MurtazaNaqviCoder">
+<a href="https://github.com/ciphertronix">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=2e31f7&size=24&center=true&vCenter=true&width=600&lines=Enterprise+IT+%26+Network+Security;eSentinel+%E2%80%94+Fraud+Risk+Management;STOS+%E2%80%94+Smart+Terminal+Operating+System;Trusted+by+Leading+Financial+Institutions" alt="Typing SVG"/>
 </a>
 
