@@ -50,7 +50,7 @@ It equips fraud analysts with a unified dashboard powered by pre-defined rules t
 - 🛡️ Near real-time transaction monitoring
 - 📊 Rule-based grading matrix
 - 🔗 Payment industry verified
-- 🧭 Unified fraud analyst dashboard
+- 🧭 Unified fraud analyst dashboard<br>
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ Built for acquirers and financial institutions, STOS delivers secure, remote con
 - 📡 Remote terminal management & monitoring
 - ⚙️ Centralized configuration & deployment
 - 🔐 Secure, compliant operations
-- 📈 Estate-wide operational visibility
+- 📈 Estate-wide operational visibility<br>
 
 </td>
 </tr>
